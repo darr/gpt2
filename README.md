@@ -10,7 +10,7 @@ bash run.sh
 ```
 
 Yes, just run the shell, it can work.
-run.sh will create a virtual env that needed by gpt, and install all  
+run.sh will create a virtual env that needed by gpt2, and install all  
 software that needed by gpt2.  
 
 And how about the pretrained model ,config and dataset that we need  
